@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Healthcare Analytics Intelligence
 
 <p align="center">
@@ -555,3 +556,7 @@ Project by
 ### Emmanuel Thomas
 
 </p>
+=======
+# Healthcare-Analytics-Intelligence
+End-to-end Healthcare Data Analytics using Python, SQL, Snowflake and Power BI
+>>>>>>> aa49432754606e283229fd1c49c63d31008146d5
